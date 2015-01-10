@@ -1,0 +1,11 @@
+Cimnet
+------------------------------------------------------------------------------
+Cimnet is a Linux based open source network simulator that started at end of 2014 using C++/C. Its abstraction of client and switch are almost finished. It also got API that goes in to OS to support upper layer virtualization of network node are almost completed. 
+
+However, right not it's still not very ready to go public.
+
+-------------------------------------------------------------------------------
+To do:
+-Abstraction of Router: I mean L3
+-CLI: so that users don't have go to write their own C++ code
+-Better API: there are still some more functionalies can be added, but was not.
